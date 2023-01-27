@@ -49,8 +49,7 @@ In order to run this project you need: Live Server
 Setup
 Clone this repository to your desired folder: git@github.com:Gmanlove/My-Portfolio.git
 
-👥 Authors
-👤 Author1
+[Video] https://www.loom.com/share/dbdaf30c6e59481a9dad3a42e508ba57
 
 GitHub: Gmanlove
 
